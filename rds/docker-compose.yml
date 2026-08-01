@@ -22,7 +22,7 @@ services:
     environment:
       - DB_HOST=database-1.cdec0qgwec69.us-east-1.rds.amazonaws.com
       - DB_USERNAME=admin
-      - DB_PASSWORD=Cloud123
+      - DB_PASSWORD=Srivalli15
       - PORT=3306
     networks:
       - appnet
